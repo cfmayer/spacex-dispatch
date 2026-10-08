@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cfmayer.github.io/spacex-dispatch/sitemap.xml
