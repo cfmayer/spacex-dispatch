@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-08T15:16:03-04:00</updated>
+  <updated>2026-10-09T08:45:50-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, October 9, 2026: SpaceX buys its way into the phone business, and carrier stocks take the hit</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-09/"/>
+    <link rel="enclosure" type="application/pdf" length="642524" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-09/spacex-dispatch-2026-10-09.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-09/</id>
+    <published>2026-10-09T08:00:00-04:00</published>
+    <updated>2026-10-09T08:45:50-04:00</updated>
+    <summary type="html">&lt;p&gt;After the market closed on Thursday, SpaceX said it will buy Grain Management&#x27;s nationwide 800 MHz spectrum portfolio, up to 14 megahertz of paired low-band airwaves that it says will let Starlink Mobile &quot;become a major mobile carrier in the US.&quot; The price was not disclosed; &lt;a href=&quot;https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45V062:0-spacex-will-pay-about-8-billion-in-cash-to-buy-cellular-spectrum-licenses-from-grain-management-wsj/&quot;&gt;The Wall Street Journal reported&lt;/a&gt; about $8 billion in cash. The deal still needs approval from the Federal Communications Commission (FCC). By Friday morning, shares of AT&amp;amp;T, Verizon and T-Mobile were down 5.5% to 7.4% before the open, &lt;a href=&quot;https://live.euronext.com/en/financial-news/us-european-telecom-stocks-slide-spacex-spectrum-deal-rattles-sector&quot;&gt;Reuters reported&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The news came too late to help SPCX, which fell 4.19% to $160.57 during Thursday&#x27;s session, its second straight loss, before rising about 2.5% in extended trading. Up to 328.4 million more Class A shares become free to sell from Friday under the IPO lock-up schedule. Crew-12 is home after Thursday&#x27;s splashdown. Next on the launch schedule: a Space Development Agency (SDA) mission early Saturday and the CRS-35 cargo flight on Tuesday. SpaceX has filed nothing new with the Securities and Exchange Commission (SEC) since Thursday morning.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 8, 2026: Crew-12 splashes down, Starlink signs up whole airlines, and Elon Musk takes his India fight public</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-08/"/>
