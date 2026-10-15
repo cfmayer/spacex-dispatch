@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-14T08:27:44-04:00</updated>
+  <updated>2026-10-15T08:32:28-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Thursday, October 15, 2026: A Starshield speed limit hits Ukraine&#x27;s front line; Musk says Washington decides</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-15/"/>
+    <link rel="enclosure" type="application/pdf" length="1267356" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-15/spacex-dispatch-2026-10-15.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-15/</id>
+    <published>2026-10-15T08:00:00-04:00</published>
+    <updated>2026-10-15T08:32:28-04:00</updated>
+    <summary type="html">&lt;p&gt;Ukrainian officials said military Starshield terminals were restricted while moving overnight into Wednesday, slowing drones and ground robots. &quot;Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS,&quot; Elon Musk &lt;a aria-label=&quot;replied: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2110445577184133456&quot;&gt;replied&lt;/a&gt; to Ukraine&#x27;s Mykhailo Fedorov, who had said connectivity at up to 160 km/h was being restored.&lt;/p&gt;&lt;p&gt;Cargo Dragon is due to dock at the International Space Station (ISS) at about 11 a.m. EDT today, and a Falcon 9 is scheduled to launch the USSF-481 mission from California at 7:44 p.m. EDT. SPCX fell 2.80% to $152.16 as a hot inflation report hit AI-linked stocks. There were no new SEC filings.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, October 14, 2026: FAA opens a full environmental review of 456 Starship launches a year from Starbase</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-14/"/>
