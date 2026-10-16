@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-15T08:32:28-04:00</updated>
+  <updated>2026-10-16T08:20:14-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, October 16, 2026: USSF-481 flies, Dragon docks, and SpaceX lends Tesla its thrusters</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-16/"/>
+    <link rel="enclosure" type="application/pdf" length="398651" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-16/spacex-dispatch-2026-10-16.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-16/</id>
+    <published>2026-10-16T08:00:00-04:00</published>
+    <updated>2026-10-16T08:20:14-04:00</updated>
+    <summary type="html">&lt;p&gt;A Falcon 9 launched the classified USSF-481 mission from Vandenberg at 8:01 p.m. EDT Thursday, 17 minutes into its window, and the booster landed on its 28th flight, &lt;a href=&quot;https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/&quot;&gt;Spaceflight Now reported&lt;/a&gt;. An hour later, at a SpaceX test site in McGregor, Texas, Tesla&#x27;s new Roadster flew on SpaceX cold-gas thrusters. &quot;Tesla x SpaceX,&quot; Elon Musk &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2110894635904110632&quot;&gt;posted&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Cargo Dragon docked at the space station Thursday morning. Ukraine says its Starlink and Starshield service is back to full capacity. Musk says the Star Mind orbital computer SpaceX is building with Nvidia reaches volume production next year, and SpaceXAI testifies to the New York City Council at 10 a.m. EDT today. SPCX fell 2.33% to $148.62.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 15, 2026: A Starshield speed limit hits Ukraine&#x27;s front line; Musk says Washington decides</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-15/"/>
