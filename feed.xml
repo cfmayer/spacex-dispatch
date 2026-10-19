@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-16T08:20:14-04:00</updated>
+  <updated>2026-10-19T08:45:00-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, October 19, 2026: Results tomorrow, and a share for every child</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-19/"/>
+    <link rel="enclosure" type="application/pdf" length="419200" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-19/spacex-dispatch-2026-10-19.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-19/</id>
+    <published>2026-10-19T08:00:00-04:00</published>
+    <updated>2026-10-19T08:45:00-04:00</updated>
+    <summary type="html">&lt;p&gt;SpaceX reports its third quarter after the close on Tuesday, its second report as a public company, and up to 1.3 billion locked-up shares become sellable two trading days later. &quot;Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many,&quot; Elon Musk &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2112089556615123114&quot;&gt;posted&lt;/a&gt; at 3:52 a.m. EDT Monday, a gift worth about $10.5 billion at Friday&#x27;s close, &lt;a href=&quot;https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html&quot;&gt;CNBC calculated&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Bandwagon-5 slipped a day to Tuesday because of recovery weather. New York City Council members called SpaceXAI&#x27;s testimony on Grok safety evasive, and Ukraine&#x27;s president blamed Washington for Starshield speed limits. SPCX fell 1.74% to $146.03 on Friday.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 16, 2026: USSF-481 flies, Dragon docks, and SpaceX lends Tesla its thrusters</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-16/"/>
