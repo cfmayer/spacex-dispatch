@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-22T09:11:43-04:00</updated>
+  <updated>2026-10-23T08:57:53-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, October 23, 2026: A 9.1% drop as the first lock-up opens</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-23/"/>
+    <link rel="enclosure" type="application/pdf" length="687433" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-23/spacex-dispatch-2026-10-23.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-23/</id>
+    <published>2026-10-23T08:00:00-04:00</published>
+    <updated>2026-10-23T08:57:53-04:00</updated>
+    <summary type="html">&lt;p&gt;SPCX fell 9.14% to $144.75 on Thursday, on 195 million shares, about twice its 30-session average, giving back all of Wednesday&#x27;s 7.79% gain and more. The slide &quot;followed profit-taking and a share unlock,&quot; &lt;a href=&quot;https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-today-oct-22-spacex-earnings-beat-sparks-profit-taking/&quot;&gt;The Motley Fool&lt;/a&gt; wrote; under the &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm&quot;&gt;prospectus&lt;/a&gt;, up to 1.3 billion locked-up Class A shares could be sold from Thursday, with up to 328.4 million more from Saturday. The Nasdaq 100 lost 2.90% and the S&amp;amp;P 500 1.21%.&lt;/p&gt;&lt;p&gt;After the close, SpaceX filed its third-quarter &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm&quot;&gt;10-Q&lt;/a&gt;, which puts the Tesla talks in writing: &quot;our board of directors has formed a special committee to evaluate a potential combination between SpaceX and Tesla, Inc.,&quot; and &quot;No determination by our special committee has been made.&quot; Starlink 15-15, scrubbed a third straight day on Thursday, tries again this evening.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 22, 2026: A 7.8% jump, and a lock-up opens</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-22/"/>
