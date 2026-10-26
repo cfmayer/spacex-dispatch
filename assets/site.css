@@ -406,4 +406,16 @@ table.dt td{background:transparent}
   .cg{column-count:2!important}
   a{text-decoration:none}
 }
+
+/* Whitespace fit fillers (print gap-fillers, regrouped before the end matter on the web) */
+.web-fillers{margin-top:1.25rem;padding-top:0.85rem;border-top:0.6px solid var(--ink);display:grid;gap:0.9rem}
+@media (min-width:700px){.web-fillers{grid-template-columns:repeat(auto-fit,minmax(16rem,1fr))}}
+.web-fillers .wire-brief,.web-fillers .fbox{margin:0}
+.web-fillers .wb-kicker,.web-fillers .fb-kicker{font-family:"Libre Franklin",sans-serif;font-weight:700;font-size:0.72rem;letter-spacing:0.16em;text-transform:uppercase;margin:0 0 0.3rem}
+.web-fillers .wire-brief p{margin:0}
+.web-fillers .wire-brief p b{font-family:"Libre Franklin",sans-serif;font-weight:800;font-size:0.9em}
+.web-fillers .fbox ul,.web-fillers .fbox ol{list-style:none;margin:0;padding:0}
+.web-fillers .fbox li,.web-fillers .fbox .fb-row{margin:0 0 0.35rem;padding-top:0.35rem;border-top:0.5px solid var(--rule,var(--ink))}
+.web-fillers .fb-fig,.web-fillers .fb-date{font-family:"Libre Franklin",sans-serif;font-weight:800;margin-right:0.35em}
+.web-fillers .fb-fig{font-size:1.15em}
 :root{--mast-em:13.120}

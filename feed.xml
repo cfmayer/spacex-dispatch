@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-23T08:57:53-04:00</updated>
+  <updated>2026-10-26T12:10:34-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, October 26, 2026: A $40 billion lease for GPUs</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-26/"/>
+    <link rel="enclosure" type="application/pdf" length="824523" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-26/spacex-dispatch-2026-10-26.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-26/</id>
+    <published>2026-10-26T08:00:00-04:00</published>
+    <updated>2026-10-26T12:10:34-04:00</updated>
+    <summary type="html">&lt;p&gt;SpaceX has signed a binding commitment letter for a master finance lease of about $40 billion with an entity managed by Apollo, under which the lessor buys pods of graphics processing units (GPUs) and leases them to SpaceX, according to an &lt;a href=&quot;https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/tm2628247d1_8k.htm&quot;&gt;8-K&lt;/a&gt; accepted by the Securities and Exchange Commission (SEC) at 8:00 a.m. EDT Monday. The letter was signed on Saturday, October 24. Each lease schedule runs about five to five and a quarter years, with rent paid quarterly in advance: one-twentieth of the financed cost plus a fixed annual rate and costs. Closing is expected before the end of the year, and schedules begin in the first half of 2027 as the hardware is delivered.&lt;/p&gt;&lt;p&gt;Elon Musk had previewed the deal on Sunday. &quot;SpaceX closed $40B of debt for GPUs, but we&#x27;re investment grade and have Starlink &amp;amp; launch revenue,&quot; he &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2114434646914068862&quot;&gt;posted&lt;/a&gt; at 3:11 p.m. EDT, and half an hour later &lt;a href=&quot;https://x.com/elonmusk/status/2114444535036321840&quot;&gt;added&lt;/a&gt; that it is &quot;primarily callable debt for GPU purchases that will arrive in Q1 and Q2. Not a major factor this quarter.&quot; &lt;a href=&quot;https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html&quot;&gt;CNBC&lt;/a&gt; reported the filing Monday morning. SPCX rose 1.89% on Friday to $147.49.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 23, 2026: A 9.1% drop as the first lock-up opens</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-23/"/>
