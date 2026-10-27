@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-26T12:10:34-04:00</updated>
+  <updated>2026-10-27T09:15:49-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, October 27, 2026: Starlink Mobile goes live in Brazil</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-27/"/>
+    <link rel="enclosure" type="application/pdf" length="553512" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-27/spacex-dispatch-2026-10-27.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-27/</id>
+    <published>2026-10-27T08:00:00-04:00</published>
+    <updated>2026-10-27T09:15:49-04:00</updated>
+    <summary type="html">&lt;p&gt;&quot;Starlink Mobile is now live in Brazil with @vivobr! 50M customers can use apps and messaging in cellular dead zones — with 7M phones already connected. This is the first nationwide service to cover the entire country,&quot; Starlink &lt;a aria-label=&quot;posted: @Starlink on X&quot; href=&quot;https://x.com/Starlink/status/2114747196226859108&quot;&gt;posted&lt;/a&gt; at 11:53 a.m. EDT Monday. Michael Nicolls &lt;a href=&quot;https://x.com/michaelnicollsx/status/2114771377182101915&quot;&gt;shared&lt;/a&gt; the announcement: &quot;Starlink Mobile in Brazil with @vivobr !&quot;&lt;/p&gt;&lt;p&gt;Vivo calls the service Vivo Satélite. Customers on eligible plans can use messaging apps, maps and the carrier&#x27;s support channel where there is no tower signal, without the data counting against their monthly allowance, and the service is free for a limited time, &lt;a href=&quot;https://oglobo.globo.com/economia/negocios/noticia/2026/10/26/vivo-e-starlink-lancam-conexao-direta-entre-celulares-e-satelites-no-brasil-saiba-como-funciona.ghtml&quot;&gt;O Globo&lt;/a&gt; reported. Video calls and general web browsing stay blocked. No sign-up or app is needed: the phone must support LTE or 5G, run the latest software and have data roaming switched on, and it needs a clear view of the sky.&lt;/p&gt;&lt;p&gt;The link runs in the 2.5 GHz band at up to 100 watts of transmit power. Brazil&#x27;s telecom regulator, Anatel, set up a supervised test regime in June, and the authorization has been renewed to April 22, 2029, with commercial use allowed under the experimental rules (&lt;a href=&quot;https://oglobo.globo.com/economia/negocios/noticia/2026/10/26/vivo-e-starlink-lancam-conexao-direta-entre-celulares-e-satelites-no-brasil-saiba-como-funciona.ghtml&quot;&gt;O Globo&lt;/a&gt;).&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, October 26, 2026: A $40 billion lease for GPUs</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-26/"/>
