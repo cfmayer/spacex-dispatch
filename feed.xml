@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-28T09:12:46-04:00</updated>
+  <updated>2026-10-29T09:28:03-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Thursday, October 29, 2026: Musk: Ship 42 will be the first ship caught by the tower</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-29/"/>
+    <link rel="enclosure" type="application/pdf" length="606415" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-29/spacex-dispatch-2026-10-29.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-29/</id>
+    <published>2026-10-29T08:00:00-04:00</published>
+    <updated>2026-10-29T09:28:03-04:00</updated>
+    <summary type="html">&lt;p&gt;&quot;Ship 42 static fires complete,&quot; SpaceX &lt;a aria-label=&quot;posted: @SpaceX on X&quot; href=&quot;https://x.com/SpaceX/status/2115476295169814978&quot;&gt;posted&lt;/a&gt; at 12:10 p.m. EDT Wednesday. &quot;The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn.&quot; Quoting the post at 10:37 p.m., Elon Musk &lt;a href=&quot;https://x.com/elonmusk/status/2115634093949911506&quot;&gt;wrote&lt;/a&gt;: &quot;As the prophecy foretold, Starship 42 will be the first tower catch.&quot;&lt;/p&gt;&lt;p&gt;Ship 42 left the Massey&#x27;s test site that night and was moved along Highway 4 back to the production site, &lt;a href=&quot;https://x.com/TrackingTheSB/status/2115643620556763279&quot;&gt;Tracking The Starbase&lt;/a&gt; posted at 11:15 p.m., and was &quot;back in the barn&quot; by 2:01 a.m. Thursday (&lt;a aria-label=&quot;post: @efraser77 on X&quot; href=&quot;https://x.com/efraser77/status/2115685533829759473&quot;&gt;post&lt;/a&gt;). SpaceX has not announced a date for Flight 15, which Launch Library 2 lists for &lt;a href=&quot;https://ll.thespacedevs.com/2.3.0/launches/upcoming/?search=Starship&quot;&gt;no earlier than November&lt;/a&gt; from Pad 2 at Starbase.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, October 28, 2026: SpaceX tells the FAA it wants 10,000 launches a year</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-28/"/>
