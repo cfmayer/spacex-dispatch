@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-29T09:28:03-04:00</updated>
+  <updated>2026-10-30T09:10:43-04:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, October 30, 2026: FCC proposes 482 MHz more for satellite-to-phone service</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-30/"/>
+    <link rel="enclosure" type="application/pdf" length="720227" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-30/spacex-dispatch-2026-10-30.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-10-30/</id>
+    <published>2026-10-30T08:00:00-04:00</published>
+    <updated>2026-10-30T09:10:43-04:00</updated>
+    <summary type="html">&lt;p&gt;The Federal Communications Commission on Thursday voted to propose making an additional 482 megahertz of spectrum available for Supplemental Coverage from Space, the satellite-to-phone service behind Starlink Mobile, expanding the eligible bands from five to 13 (&lt;a href=&quot;https://www.fcc.gov/document/fcc-proposes-modernize-leasing-rules-d2d-services&quot;&gt;FCC&lt;/a&gt;). The proposal would also eliminate the rule&#x27;s leasing requirements and its geographically independent area requirement, replacing them with flexible license areas and coexistence agreements between satellite operators and carriers, and seeks comment on direct-to-device performance requirements. &quot;With today&#x27;s proposal, we take our most comprehensive step yet to modernize the FCC&#x27;s rules for direct-to-device,&quot; Chairman Brendan Carr said, according to the &lt;a href=&quot;https://x.com/FCC/status/2115825671783985191&quot;&gt;FCC&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;It is a notice of proposed rulemaking: the next step is public comment, and final rules would need another vote. AT&amp;amp;T, Verizon and T-Mobile had wanted 290 MHz cut from the plan, &lt;a href=&quot;https://x.com/Teslarati/status/2115843482451427661&quot;&gt;Teslarati&lt;/a&gt; posted. &quot;Streamlining rules and ensuring access to critical radio frequency (RF) resources are more important than ever,&quot; said Tom Stroup, president of the Satellite Industry Association (&lt;a href=&quot;https://sia.org/expand-supplemental-coverage-from-space-and-refresh-direct-to-device-satellite-connectivity-rules/&quot;&gt;SIA&lt;/a&gt;).&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 29, 2026: Musk: Ship 42 will be the first ship caught by the tower</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-29/"/>
