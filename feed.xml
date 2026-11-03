@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-03T08:52:31-05:00</updated>
+  <updated>2026-11-03T09:20:47-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, November 3, 2026: &quot;Boost it&quot;: Isaacman on Hubble&#x27;s future</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-03/"/>
+    <link rel="enclosure" type="application/pdf" length="508303" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-03/spacex-dispatch-2026-11-03.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-03/</id>
+    <published>2026-11-03T08:00:00-05:00</published>
+    <updated>2026-11-03T09:20:47-05:00</updated>
+    <summary type="html">&lt;p&gt;&quot;Hubble, you can&#x27;t let it have an uncontrolled re-entry. That would not be the right thing to do. If you&#x27;re going to spend money to go up there and do something, you might as well boost it, get as much science as you possibly can out of it,&quot; NASA Administrator Jared Isaacman told &lt;a href=&quot;https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/&quot;&gt;NASASpaceflight&lt;/a&gt; in an interview published Tuesday.&lt;/p&gt;&lt;p&gt;NASA issued a Request for Information on Oct. 29 asking companies whether they could boost Hubble to a higher orbit, service it to enhance its capabilities, or carry out a controlled re-entry or disposal, &lt;a href=&quot;https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/&quot;&gt;NASA&lt;/a&gt; said. Responses are due by 3 p.m. EST on Monday, Nov. 30. Hubble has no propulsion of its own and is likely to re-enter in 2033 or 2034, so a mission would need to fly by 2032, the agency said.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 2, 2026: SpaceX in talks for Boost Mobile</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-02/"/>
