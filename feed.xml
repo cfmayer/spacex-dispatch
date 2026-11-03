@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-10-30T09:10:43-04:00</updated>
+  <updated>2026-11-03T08:52:31-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, November 2, 2026: SpaceX in talks for Boost Mobile</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-02/"/>
+    <link rel="enclosure" type="application/pdf" length="888339" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-02/spacex-dispatch-2026-11-02.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-02/</id>
+    <published>2026-11-02T08:00:00-05:00</published>
+    <updated>2026-11-03T08:52:31-05:00</updated>
+    <summary type="html">&lt;p&gt;SpaceX is in talks to buy EchoStar&#x27;s wireless service Boost Mobile or gain access to its network, which EchoStar leases from AT&amp;amp;T and T-Mobile, &lt;a href=&quot;https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/&quot;&gt;The Washington Post&lt;/a&gt; reported Monday, citing people familiar with the negotiations. The talks have run for months and are about launching SpaceX&#x27;s own wireless service through a deal with EchoStar, &lt;a href=&quot;https://money.usnews.com/investing/news/articles/2026-11-02/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports&quot;&gt;Reuters&lt;/a&gt; wrote, summarizing the report.&lt;/p&gt;&lt;p&gt;The goal is a hybrid satellite-and-ground network under the Starlink Mobile name to compete with AT&amp;amp;T, Verizon and T-Mobile (&lt;a href=&quot;https://money.usnews.com/investing/news/articles/2026-11-02/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports&quot;&gt;Reuters&lt;/a&gt;). Musk approached the heads of the top U.S. telecom companies, including Verizon, in recent months to ask for access to their networks, according to &lt;a href=&quot;https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/&quot;&gt;The Washington Post&lt;/a&gt;, which called a deal &quot;a potential back door into the $235 billion wireless market.&quot; SpaceX and EchoStar did not immediately respond to requests for comment from &lt;a href=&quot;https://money.usnews.com/investing/news/articles/2026-11-02/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports&quot;&gt;Reuters&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, October 30, 2026: FCC proposes 482 MHz more for satellite-to-phone service</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-10-30/"/>
