@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-05T08:52:24-05:00</updated>
+  <updated>2026-11-09T08:36:02-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, November 6, 2026: Starlink for Indonesian schools and clinics</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-06/"/>
+    <link rel="enclosure" type="application/pdf" length="583545" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-06/spacex-dispatch-2026-11-06.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-06/</id>
+    <published>2026-11-06T08:00:00-05:00</published>
+    <updated>2026-11-09T08:36:02-05:00</updated>
+    <summary type="html">&lt;p&gt;Musk amplified two Starlink stories from Indonesia: &quot;Starlink saves lives,&quot; he &lt;a aria-label=&quot;posted: @elonmusk on X&quot; href=&quot;https://x.com/elonmusk/status/2118381856454524939&quot;&gt;posted&lt;/a&gt; at 11:36 a.m. EST Thursday, and &quot;Starlink enables education in remote areas&quot; at 4:32 a.m. EST Friday. Katingan Regency&#x27;s local government is distributing Starlink kits to schools and clinics, according to official &lt;a href=&quot;https://www.katingankab.go.id/berita/306&quot;&gt;Diskominfostandi&lt;/a&gt; notices.&lt;/p&gt;&lt;p&gt;The same coverage window ends with Falcon 9 USSF-432 set for tonight from Vandenberg and SPCX&#x27;s sharpest one-day drop since listing.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 5, 2026: Free Standard kits for early Starlink customers</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-05/"/>
