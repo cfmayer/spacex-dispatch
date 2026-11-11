@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-10T09:02:06-05:00</updated>
+  <updated>2026-11-11T09:00:25-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Wednesday, November 11, 2026: A squeeze test at catch height</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-11/"/>
+    <link rel="enclosure" type="application/pdf" length="846207" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-11/spacex-dispatch-2026-11-11.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-11/</id>
+    <published>2026-11-11T08:00:00-05:00</published>
+    <updated>2026-11-11T09:00:25-05:00</updated>
+    <summary type="html">&lt;p&gt;Booster 22, the first Super Heavy V3 booster meant to return to the launch site for a catch, rolled to the pad at Starbase and was held aloft by the tower&#x27;s arms for a &quot;suspended squeeze test at catch height,&quot; &lt;a href=&quot;https://x.com/SpaceX/status/2120220290219208884&quot;&gt;SpaceX posted&lt;/a&gt; Tuesday at 1:21 p.m. EST. Starship Flight 15 still targets Friday at 5:45 p.m. EST, pending regulatory approval, and airspace notices for the launch went up Wednesday morning.&lt;/p&gt;&lt;p&gt;Off the pad, SpaceX signed a deal with Germany&#x27;s SINGULUS for a solar-cell production line to power its Starmind satellites, and the Federal Communications Commission (FCC) opened its review of SpaceX&#x27;s purchase of nationwide 800 MHz spectrum. USSF-627 slipped a second time, to tonight, and SPCX rose 0.72%.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Tuesday, November 10, 2026: &quot;Fundamentally an infrastructure company&quot;</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-10/"/>
