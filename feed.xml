@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-12T08:59:10-05:00</updated>
+  <updated>2026-11-13T09:01:45-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, November 13, 2026: Flight 15 is stacked; the license is not yet in hand</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-13/"/>
+    <link rel="enclosure" type="application/pdf" length="1000933" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-13/spacex-dispatch-2026-11-13.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-13/</id>
+    <published>2026-11-13T08:00:00-05:00</published>
+    <updated>2026-11-13T09:01:45-05:00</updated>
+    <summary type="html">&lt;p&gt;Ship 42 was rolled to Starbase Pad 2 on Thursday and stacked on Booster 22 for today&#x27;s 5:45 p.m. EST launch, the first attempt to catch both stages of an orbital rocket. &lt;a href=&quot;https://www.spacex.com/launches/starship-flight-15&quot;&gt;SpaceX&#x27;s flight page&lt;/a&gt; still said the launch was &quot;pending regulatory approval&quot; on Friday morning, and the Federal Aviation Administration (FAA) had not published an updated launch license when &lt;a href=&quot;https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/&quot;&gt;NASASpaceflight&lt;/a&gt; went to press. In California, USSF-317 slipped three days to Tuesday night.&lt;/p&gt;&lt;p&gt;SpaceX laid out more than $74 billion in planned supercompute campuses in Texas and Arizona, &lt;a href=&quot;https://www.theverge.com/science/1032350/spacex-tesla-mega-merger-could-come-as-soon-as-december&quot;&gt;Bloomberg reported&lt;/a&gt; that the SpaceX–Tesla merger talks are progressing, and Ukraine&#x27;s president said Starshield speeds are being limited again, which SpaceX called false. SPCX closed up 0.14% at $139.94.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 12, 2026: USSF-627 flies; the double catch is a day away</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-12/"/>
