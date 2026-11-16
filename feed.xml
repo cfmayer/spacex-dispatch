@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-13T09:01:45-05:00</updated>
+  <updated>2026-11-16T08:59:45-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Monday, November 16, 2026: SpaceX catches a Starship from orbit; the booster is lost</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-16/"/>
+    <link rel="enclosure" type="application/pdf" length="499304" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-16/spacex-dispatch-2026-11-16.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-16/</id>
+    <published>2026-11-16T08:00:00-05:00</published>
+    <updated>2026-11-16T08:59:45-05:00</updated>
+    <summary type="html">&lt;p&gt;The Federal Aviation Administration (FAA) cleared Starship Flight 15 on Friday afternoon, and the rocket lifted off from Starbase at 5:47 p.m. EST. Super Heavy Booster 22 ran low on fuel during its boostback burn, aborted its tower catch and was destroyed over the Gulf, but Ship 42 deployed 26 Starlink V3 satellites, circled Earth 14 times and, about 22.5 hours after launch, was caught by the tower&#x27;s arms at about 4:20 p.m. EST Saturday, &lt;a href=&quot;https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/&quot;&gt;Spaceflight Now reported&lt;/a&gt;. It was the first catch of a Starship upper stage.&lt;/p&gt;&lt;p&gt;On Sunday, a United Launch Alliance Vulcan carrying 40 Amazon Leo satellites failed 10 minutes into flight. USSF-317 slipped another day to Wednesday night, and Citi raised its SPCX price target to $280 on Monday morning. The stock closed Friday, before the launch, down 0.59% at $139.11.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Friday, November 13, 2026: Flight 15 is stacked; the license is not yet in hand</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-13/"/>
