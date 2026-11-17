@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-16T08:59:45-05:00</updated>
+  <updated>2026-11-17T09:03:47-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Tuesday, November 17, 2026: Wall Street cheers the ship catch as SPCX slips with tech</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-17/"/>
+    <link rel="enclosure" type="application/pdf" length="952866" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-17/spacex-dispatch-2026-11-17.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-17/</id>
+    <published>2026-11-17T08:00:00-05:00</published>
+    <updated>2026-11-17T09:03:47-05:00</updated>
+    <summary type="html">&lt;p&gt;Analysts spent Monday praising Starship Flight 15. &quot;With a ship catch, SpaceX has materially de-risked the longer-term TAMs across all 3 of its segments,&quot; Morgan Stanley wrote, and Raymond James called the flight &quot;one of the most consequential technological achievements in modern aerospace history,&quot; &lt;a href=&quot;https://www.cnbc.com/2026/11/16/analysts-are-awed-by-spacexs-starship-catch-heres-why-.html&quot;&gt;CNBC&lt;/a&gt; and &lt;a href=&quot;https://www.morningstar.com/news/marketwatch/2026111660/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock&quot;&gt;MarketWatch&lt;/a&gt; reported. The stock still fell 1.26% to $137.36 as the Nasdaq 100 dropped 2.67% in a broad technology selloff.&lt;/p&gt;&lt;p&gt;Elon Musk said the Federal Aviation Administration (FAA) had turned down free Starlink terminals before Friday&#x27;s nationwide ground stop, and that heat-shield material scraped off by the tower&#x27;s arms will be replaced with &quot;stainless steel wool.&quot; USSF-317 holds for Wednesday night at Vandenberg, and Antonio Gracias reported beneficial ownership of 5.5% of SpaceX&#x27;s Class A shares, mostly through Valor entities.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 16, 2026: SpaceX catches a Starship from orbit; the booster is lost</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-16/"/>
