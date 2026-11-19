@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-18T08:54:09-05:00</updated>
+  <updated>2026-11-19T08:57:54-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Thursday, November 19, 2026: Musk: SpaceX and Tesla &quot;probably&quot; better together</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-19/"/>
+    <link rel="enclosure" type="application/pdf" length="1006387" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-19/spacex-dispatch-2026-11-19.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-19/</id>
+    <published>2026-11-19T08:00:00-05:00</published>
+    <updated>2026-11-19T08:57:54-05:00</updated>
+    <summary type="html">&lt;p&gt;Speaking by video from China at The New York Times DealBook Summit on Wednesday, Elon Musk said SpaceX and Tesla have &quot;more and more areas of interaction or overlap,&quot; mostly in AI and robotics, and that the two would &quot;probably&quot; be better together, though any deal needs shareholder votes, &lt;a href=&quot;https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html&quot;&gt;CNBC reported&lt;/a&gt;. He also said Anthropic, which priced its initial public offering (IPO) at $83 a share on Wednesday and starts trading today, wants &quot;an incremental 10 gigawatts&quot; of SpaceX compute.&lt;/p&gt;&lt;p&gt;In Texas, Cameron County commissioners voted 3–2 against moving a 10-year tax break for SpaceX&#x27;s $24 billion Starbase data center and gas plant to a hearing, and SpaceX warned of swings in local tax rates. The stock rose 1.27% to $143.50. The CRS-35 cargo Dragon&#x27;s departure slipped again, to Friday, and USSF-317 now targets 11:28 p.m. EST tonight from California.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Wednesday, November 18, 2026: SpaceX&#x27;s GPU lease heads to bond buyers</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-18/"/>
