@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/spacex-dispatch/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/"/>
   <id>https://cfmayer.github.io/spacex-dispatch/</id>
-  <updated>2026-11-26T09:26:27-05:00</updated>
+  <updated>2026-11-27T09:05:36-05:00</updated>
   <author><name>The SpaceX Dispatch</name></author>
   <icon>https://cfmayer.github.io/spacex-dispatch/apple-touch-icon.png</icon>
   <rights>The SpaceX Dispatch is an independent weekday digest of public news, X posts, regulatory filings and market data about Space Exploration Technologies Corp., and is not affiliated with the company. Quotes are verbatim; emoji in quoted posts are omitted for print. Market data are delayed and may be revised. Not investment advice.</rights>
+  <entry>
+    <title>Friday, November 27, 2026: Another SpaceX share for every child, every year, and USSF-380 confirmed for Saturday night</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-27/"/>
+    <link rel="enclosure" type="application/pdf" length="1239600" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-27/spacex-dispatch-2026-11-27.pdf"/>
+    <id>https://cfmayer.github.io/spacex-dispatch/issues/2026-11-27/</id>
+    <published>2026-11-27T08:00:00-05:00</published>
+    <updated>2026-11-27T09:05:36-05:00</updated>
+    <summary type="html">&lt;p&gt;Elon Musk said on Thanksgiving that he will donate &quot;another share of SpaceX to all kids in America every year,&quot; extending the one-time gift of two shares per active Trump Account that SpaceX and Musk announced on Wednesday. SPCX rose more than 7% in overnight trading and was 4% higher before Friday&#x27;s open, &lt;a href=&quot;https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html&quot;&gt;CNBC&lt;/a&gt; reported. New details of Wednesday&#x27;s Starmind license show a first satellite about 70 meters across and six orbital shells, and the FCC turned down objections from Amazon Leo, Viasat and the American Astronomical Society, &lt;a href=&quot;https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/&quot;&gt;NASASpaceFlight&lt;/a&gt; reported.&lt;/p&gt;&lt;p&gt;SpaceX has confirmed a Falcon 9 launch of the USSF-380 mission for the U.S. Space Force from California at 11:39 p.m. EST Saturday, and a Cygnus XL cargo ship is set to follow from Florida at 10:47 a.m. EST Sunday. Starlink is offering half-price home service for six months through Cyber Monday. US stock markets close early today, at 1:00 p.m. EST, according to the &lt;a href=&quot;https://www.nyse.com/markets/hours-calendars&quot;&gt;NYSE&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, November 26, 2026: A share for every Trump Account, and an FCC license for a million data-center satellites</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/spacex-dispatch/issues/2026-11-26/"/>
